@@ -8,7 +8,7 @@
     <name>APPleby</name>
 
     <description>
-        Applicazione officiale di applebyitalia
+        Applicazione ufficiale di applebyitalia
     </description>
 
     <author href="http://tchonin.com" email="tchoninpaulin@gmail.com">
@@ -19,7 +19,7 @@
         <string>1.0</string>
     </gap:config-file>
 
-    <preference name="phonegap-version" value="3.6.3" />
+    <preference name="phonegap-version" value="3.7.0" />
     <preference name="orientation"      value="default" />
     <preference name="target-device"    value="universal" />
     <preference name="fullscreen"       value="false" />
